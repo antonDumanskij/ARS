@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="ARS" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="ARS">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/.idea" />
+            <excludedPath path="/vendor" />
+            <excludedPath path="/storage/framework" />
+            <excludedPath path="/storage/logs" />
+            <excludedPath path="/tests" />
+            <excludedPath path="/.cache" />
+            <excludedPath path="/.config" />
+            <excludedPath path="/.local" />
+            <excludedPath path="/.npm" />
+            <excludedPath path="/node_modules" />
+            <excludedPath path="/composer.json" />
+            <excludedPath path="/composer.lock" />
+            <excludedPath path="/package-lock.json" />
+            <excludedPath path="/package.json" />
+            <excludedPath path="/phpunit.xml" />
+            <excludedPath path="/README.md" />
+            <excludedPath path="/server.php" />
+            <excludedPath path="/webpack.mix.js" />
+            <excludedPath path="/.bash_history" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+  </component>
+</project>
